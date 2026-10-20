@@ -2,7 +2,7 @@
 set -euo pipefail
 
 PROGRAM="${1:-all}"
-SEMESTER=fa26
+SEMESTER=sp26
 
 if [[ "$PROGRAM" != "all" ]]; then
 	if ! [[ "$PROGRAM" =~ ^(logisim|venus)$ ]]; then
