@@ -1,0 +1,30 @@
+lab07/.gitignore
+  h_0fa3f56b6a5150 1-3
+lab07/Makefile
+  h_0fa3f56b6a5150 1-34
+lab07/ex1.c
+  h_0fa3f56b6a5150 1-83
+lab07/ex1.h
+  h_0fa3f56b6a5150 1-17
+lab07/ex1_test.c
+  h_0fa3f56b6a5150 1-67
+lab07/ex2.c
+  h_0fa3f56b6a5150 1-39
+lab07/ex2.h
+  h_0fa3f56b6a5150 1-21
+lab07/ex2_test.c
+  h_0fa3f56b6a5150 1-128
+lab07/openmp_example.c
+  h_0fa3f56b6a5150 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "96a1752135db5cccee9ebddd6248dd3bef2ac9ad",
+  "prompts": {},
+  "humans": {
+    "h_0fa3f56b6a5150": {
+      "author": "Flying010 <snehamuppalla@gmail.com>"
+    }
+  }
+}
